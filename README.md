@@ -3,6 +3,15 @@ Lab tasks of F21 **Distributed and Network Programming** course.
 
 > Semester 5, 3rd study-year, Innopolis University.
 
+## Labs
+- [Sequential vs Parallel processing](#sequential-vs-parallel-processing)
+- [A client-server calculator app with UDP sockets](#a-client-server-calculator-app-with-udp-sockets)
+- [Reliable file transfer on top of UDP](#reliable-file-transfer-on-top-of-udp)
+- [TCP Client-Server number guessing game](#tcp-client-server-number-guessing-game)
+- [RPC client-server](#rpc-client-server)
+- [Chord protocol](#chord-protocol)
+- [RAFT Protocol (Leader election)](#raft-protocol-leader-election)
+
 ## Sequential vs Parallel processing
 Compare the performance of sequential and parallel processing by finding whether the given numbers are prime or not using Python's `multiprocessing` package.
 
